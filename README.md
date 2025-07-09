@@ -3,15 +3,15 @@ Código e documentação do projeto de Algoritmos e Programação de Computadore
 # Especificacao-Projeto-APC
 📖Descrição
 
-Uma ferramenta interativa com uma interface, que permiete ao usuario adicionar, retirar tarefas ou colocar tarefaz novas e marcar como concluidas ou não concluidas, com a finalidade das pessoas adotarem habitos saudaveis e conseguirem implementar de forma consciente esses habitos nas suas rotinas diarias.
+Uma ferramenta interativa com uma interface, que permite ao usuario adicionar, retirar tarefas ou colocar tarefas novas e marcar como concluídas ou não concluídas. Com a finalidade das pessoas adotarem hábitos saudáveis e conseguirem implementar de forma consciente esses hábitos nas suas rotinas diárias.
 
 ✨ Funcionalidades do Projeto
 
-Escrito em python o codigo traz estruturas de listas, e iterações simples para facil entendimento, com a importação da biblioteca nativa do python que permite uma interface grafica para uma melhor experiencia do usuario, um programa que permite ao usuario rodar no proprio Thonny, com implementação simples.
+Escrito em python o código traz estruturas de listas, e iterações simples para fácil entendimento, com a importação da biblioteca nativa do python que permite uma interface gráfica para uma melhor experiência do usuário, um programa que permite ao usuario rodar no proprio Thonny, com implementação simples.
 
 🚀 Como Usar
 
-Para usar é bem simples, basta apenas baixar o executavel e rodar na sua maquina, ele irá baixar o python e rodar sem precisar utilizar qualquer IDE. 
+Para usar é bem simples, basta apenas baixar o executável e rodar na sua máquina, ele irá baixar o python e rodar sem precisar utilizar qualquer IDE. 
 
 ---PARA DEV's
 
