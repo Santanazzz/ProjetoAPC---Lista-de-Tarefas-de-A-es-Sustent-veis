@@ -1,4 +1,4 @@
-# ProjetoAPC---Lista-de-Tarefas-de-A-es-Sustent-veis
+# ProjetoAPC---Lista-de-Tarefas-de-Ações-Sustentaveis
 Código e documentação do projeto de Algoritmos e Programação de Computadores da Universidade de Brasília.
 # Especificacao-Projeto-APC
 📖Descrição
