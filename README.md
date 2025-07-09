@@ -1,27 +1,59 @@
-# ProjetoAPC---Lista-de-Tarefas-de-Ações-Sustentaveis
-Código e documentação do projeto de Algoritmos e Programação de Computadores da Universidade de Brasília.
-# Especificacao-Projeto-APC
-📖Descrição
+# 📋 Projeto APC - Lista de Tarefas de Ações Sustentáveis
 
-Uma ferramenta interativa com uma interface, que permite ao usuario adicionar, retirar tarefas ou colocar tarefas novas e marcar como concluídas ou não concluídas. Com a finalidade das pessoas adotarem hábitos saudáveis e conseguirem implementar de forma consciente esses hábitos nas suas rotinas diárias.
+Código e documentação do projeto da disciplina **Algoritmos e Programação de Computadores (APC)** da **Universidade de Brasília (UnB)**.
 
-✨ Funcionalidades do Projeto
+---
 
-Escrito em python o código traz estruturas de listas, e iterações simples para fácil entendimento, com a importação da biblioteca nativa do python que permite uma interface gráfica para uma melhor experiência do usuário, um programa que permite ao usuario rodar no proprio Thonny, com implementação simples.
+## 📖 Descrição
 
-🚀 Como Usar
+Uma ferramenta interativa com interface gráfica que permite ao usuário:
 
-Para usar é bem simples, basta apenas baixar o executável e rodar na sua máquina, ele irá baixar o python e rodar sem precisar utilizar qualquer IDE. 
+- Adicionar novas tarefas sustentáveis
+- Remover tarefas
+- Marcar tarefas como concluídas ou pendentes
 
----PARA DEV's
+O objetivo é incentivar hábitos sustentáveis de forma prática e consciente no dia a dia.
 
-Para rodar o codigo dentro da IDE Thonny, baixar o arquivo em python ou copiar o codigo e rodar na IDE da sua escolha.
+---
 
-👥 Autores
-Este projeto tem como participantes:
+## ✨ Funcionalidades
 
-DOUGLAS MARTINS DA SILVA
+- ✅ Interface gráfica amigável (Tkinter)
+- ✅ Estrutura simples com listas e iteração
+- ✅ Fácil execução, mesmo fora da IDE
+- ✅ Destaques visuais para tarefas concluídas ou pendentes
+- ✅ Sugestões automáticas de tarefas ecológicas
 
-GABRIEL SANTANA NOGUEIRA COSTA
+---
 
-MARIA FERNANDA PEDREIRA FELIX 
+## 🚀 Como Usar
+
+### 🧑‍💻 Para usuários comuns
+
+1. Baixe o arquivo executável `.exe` (disponível no repositório).
+2. Dê dois cliques no executável.
+3. O programa rodará sem precisar de nenhuma instalação adicional de IDEs ou bibliotecas.
+
+> ℹ️ O Python será embutido automaticamente no executável.
+
+---
+
+### 👨‍💻 Para desenvolvedores (ou quem quiser rodar o código diretamente)
+
+1. Baixe o arquivo `.py` ou copie o código.
+2. Abra no **Thonny**, **VS Code**, ou qualquer IDE de sua preferência.
+3. Execute o programa normalmente (é necessário ter o Python instalado).
+
+---
+
+## 👥 Autores
+
+Este projeto foi desenvolvido por estudantes da UnB:
+
+- **Douglas Martins da Silva**
+- **Gabriel Santana Nogueira Costa**
+- **Maria Fernanda Pedreira Felix**
+
+---
+
+📌 *Projeto desenvolvido como parte da disciplina de Algoritmos e Programação de Computadores - UnB, 2025.*
