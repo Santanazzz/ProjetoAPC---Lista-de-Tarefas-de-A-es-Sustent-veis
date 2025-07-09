@@ -11,7 +11,11 @@ Escrito em python o codigo traz estruturas de listas, e iterações simples para
 
 🚀 Como Usar
 
-Para usar é bem simples, basta apenas baixar, e rodar o codigo dentro da IDE Thonny, ou copiar o codigo e rodar na IDE da sua escolha.
+Para usar é bem simples, basta apenas baixar o executavel e rodar na sua maquina, ele irá baixar o python e rodar sem precisar utilizar qualquer IDE. 
+
+---PARA DEV's
+
+Para rodar o codigo dentro da IDE Thonny, baixar o arquivo em python ou copiar o codigo e rodar na IDE da sua escolha.
 
 👥 Autores
 Este projeto tem como participantes:
