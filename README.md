@@ -14,5 +14,7 @@ Para usar é bem simples, basta apenas baixar, e rodar o codigo dentro da IDE Th
 Este projeto tem como participantes:
 
 DOUGLAS MARTINS DA SILVA
+
 GABRIEL SANTANA NOGUEIRA COSTA
+
 MARIA FERNANDA PEDREIRA FELIX 
