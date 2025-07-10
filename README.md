@@ -1,6 +1,6 @@
 ## 🎥 Demonstração do projeto
 
-[![Demonstração](thumbnail-video.png)](https://drive.google.com/file/d/11RctWJRP8sB3Qdo1sBl05arAhKC3ASbW/view?usp=sharing)
+[![Demonstração]((https://img.icons8.com/color/480/youtube-play.png))](https://drive.google.com/file/d/11RctWJRP8sB3Qdo1sBl05arAhKC3ASbW/view?usp=sharing)
 
 
 # 📋 Projeto APC - Lista de Tarefas de Ações Sustentáveis
