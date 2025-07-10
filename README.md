@@ -44,6 +44,20 @@ O objetivo é incentivar hábitos sustentáveis de forma prática e consciente n
 2. Abra no **Thonny**, **VS Code**, ou qualquer IDE de sua preferência.
 3. Execute o programa normalmente (é necessário ter o Python instalado).
 
+#### 🛠️ Como foi gerado o arquivo `.exe`:
+
+O executável foi criado usando a ferramenta [**Auto Py to Exe**](https://github.com/brentvollebregt/auto-py-to-exe), uma interface gráfica para o PyInstaller.
+
+**Configurações utilizadas:**
+- ✅ `One File` (arquivo único)
+- ✅ `Window Based` (sem terminal)
+- 📂 Script: `"Lista de Tarefas de Ações Sustentáveis.py"`
+- 🎨 (Opcional) Ícone `.ico` personalizado adicionado
+
+Após configurar tudo na interface gráfica, foi só clicar em **"Convert .py to .exe"** para gerar o executável final na pasta `output`.
+
+> O `.exe` gerado está pronto para ser usado em qualquer máquina Windows, sem necessidade de instalar Python ou bibliotecas.
+
 ---
 
 ## 👥 Autores
