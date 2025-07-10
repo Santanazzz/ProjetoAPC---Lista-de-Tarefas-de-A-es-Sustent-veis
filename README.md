@@ -68,7 +68,7 @@ Após configurar tudo na interface gráfica, foi só clicar em **"Convert .py to
 
 ## 👥 Autores
 
-Este projeto foi desenvolvido por estudantes da UnB:
+Este projeto foi desenvolvido pelos estudantes da UnB:
 
 - **Douglas Martins da Silva**
 - **Gabriel Santana Nogueira Costa**
@@ -76,4 +76,10 @@ Este projeto foi desenvolvido por estudantes da UnB:
 
 ---
 
+📌 *Professor orientador: Edison Ishikawa*
+
+---
+
 📌 *Projeto desenvolvido como parte da disciplina de Algoritmos e Programação de Computadores - UnB, 2025.*
+
+
